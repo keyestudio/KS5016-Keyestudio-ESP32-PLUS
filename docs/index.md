@@ -1,6 +1,6 @@
 # Keyestudio ESP32 Development Board
 
-![img](/img/img1.png)
+![img](./img/img1.png)
 
 ## 1.Description
 
@@ -25,15 +25,15 @@ It has a host of peripherals such as hall sensor, high-speed SDIO/SPI, UART, I2S
 
 ## 3.Pin out
 
-![img](/img/img2.png)
+![img](./img/img2.png)
 
 ## 4.Schematic Diagram
 
-![img](/img/img3.png)
+![img](./img/img3.png)
 
 <span style="color:red">Note: Click the link to start learning how to download software, install drivers, upload code, and install library files.</span>
 
-[https://getting-started-with-arduino.readthedocs.io](https://getting-started-with-arduino.readthedocs.io/en/latest/Arduino IDE Tutorial.html)
+[https://getting-started-with-arduino.readthedocs.io](https://docs.keyestudio.com/projects/Arduino/en/latest/Arduino%20IDE%20Tutorial.html)
 
 ------
 
@@ -95,7 +95,7 @@ void loop()
 
 After uploading the code, open the serial port and we empower to see the wifi found by ESP32. 
 
-![img](/img/img4.png)
+![img](./img/img4.png)
 
 
 
